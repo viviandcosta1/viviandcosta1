@@ -24,7 +24,8 @@ I'm a **Software Developer** working across full-stack web development, AI/ML pi
 
 - 💻 **Currently**: Software Developer at **Daylink Tech Labs** (Belagavi, India)
 - 🌐 **Web & APIs**: Architecting responsive full-stack applications and REST APIs.
-- ⚙️ **Automation**: Building business automation workflows and API integrations.
+- ⚙️ **Automation & IoT**: Building business automation workflows with n8n, ThingsBoard & API integrations.
+- 🧠 **AI & ML**: Developing GenAI solutions, NLP pipelines, and data-driven models.
 - ☁️ **Cloud & Databases**: Working with MongoDB, MySQL, AWS, and Git.
 - 🎯 **Philosophy**: **`01 UNDERSTAND` ➔ `02 BUILD` ➔ `03 IMPROVE` ➔ `04 SHIP`**
 
@@ -59,6 +60,20 @@ I'm a **Software Developer** working across full-stack web development, AI/ML pi
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>AI & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Gen_AI-792EE5?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/NLP-008080?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Automation & IoT</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/ThingsBoard-2A97FF?style=flat-square&logo=thingsboard&logoColor=white" />
     </td>
   </tr>
   <tr>
