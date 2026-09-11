@@ -21,9 +21,9 @@
 I'm a **Software Developer** working across full-stack web development, AI/ML pipelines, backend architectures, and automation systems. I specialize in turning complex business problems into scalable, reliable, and user-centric software.
 
 - 💻 **Currently**: Software Developer at **Daylink Tech Labs** (Belagavi, India)
-- 🤖 **Focus**: Designing & deploying AI/ML models, intelligent lead generation systems, and automated data workflows.
-- 🌐 **Web & APIs**: Architecting responsive full-stack applications and high-throughput REST APIs.
-- ☁️ **Cloud & DevOps**: Building containerized services, managing databases, and leveraging AWS infrastructure.
+- 🌐 **Web & APIs**: Architecting responsive full-stack applications and REST APIs.
+- ⚙️ **Automation**: Building business automation workflows and API integrations.
+- ☁️ **Cloud & Databases**: Working with MongoDB, MySQL, AWS, and Git.
 - 🎯 **Philosophy**: **`01 UNDERSTAND` ➔ `02 BUILD` ➔ `03 IMPROVE` ➔ `04 SHIP`**
 
 ---
@@ -56,18 +56,7 @@ I'm a **Software Developer** working across full-stack web development, AI/ML pi
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%"><b>AI / ML & Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Data_Pipelines-005571?style=flat-square&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -75,17 +64,14 @@ I'm a **Software Developer** working across full-stack web development, AI/ML pi
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>Cloud & DevOps</b></td>
+    <td width="20%"><b>Cloud & Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
 </table>
