@@ -1,11 +1,13 @@
 <div align="center">
 
+  <img src="./assets/profile.jpg" alt="Vivian Dcosta" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 3px solid #238636;" />
+
 # Hi, I'm Vivian Dcosta 👋
 
-### **Software Developer · AI/ML · Full Stack**
+### **Software Developer · Full Stack · Web Applications**
 
 <p align="center">
-  <em>Building high-performance web applications, AI-powered solutions, REST APIs & automation workflows.</em>
+  <em>Building high-performance web applications, practical software solutions, REST APIs & automation workflows.</em>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivian-dcosta-3a2703256)
